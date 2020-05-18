@@ -1,3 +1,6 @@
+# Links
+- Official documentation: http://www.typescriptlang.org/Handbook
+
 
 # Git
 ```
